@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DB_TecnoAuto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DB_TecnoAuto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
